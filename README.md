@@ -54,6 +54,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsrinivasan18&show_icons=true)](https://github.com/ganeshsrinivasan18&show_icons=true/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsrinivasan18)](https://github.com/ganeshsrinivasan18/github-readme-stats)
+
 
 
