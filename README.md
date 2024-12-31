@@ -52,16 +52,30 @@
 
 
 
-<h3 align="left">Github Stats📈:</h3>
-<p align="left">
-</p>
+### 📊 Github Statistics
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsrinivasan18&show_icons=true&locale=en&layout=compact" alt="ganeshsrinivasan18" /></p>
+<div align="center">
+  <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganeshsrinivasan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsrinivasan18&theme=dracula&show_icons=true&layout=compact"/>
+  </div
+<!--   <div align="center">
+<!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ganeshsrinivasan18&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
+<!-- </div> --> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshsrinivasan18&show_icons=true&locale=en" alt="ganeshsrinivasan18" /></p>
+<!--![ganeshsrinivasan18 Tropihes](https://github-profile-trophy.vercel.app/?username=ganeshsrinivasan18&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
+___
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&" alt="ganeshsrinivasan18" /></p>
+### 📈 Streak
 
+<div align="center">
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&theme=dracula&show_icons=true&layout=compact"/><br>
+<!--    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&theme=tokyonight&hide_border=false"/><br> -->
+  
+</div>
+
+***
+
+### 🐍**Contribution Snake**
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake-dark.svg" />
