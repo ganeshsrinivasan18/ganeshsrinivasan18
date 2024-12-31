@@ -47,20 +47,21 @@
 
 
 ***
-<h3 align="left">📈Github Stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsrinivasan18&show_icons=true)](https://github.com/ganeshsrinivasan18&show_icons=true/github-readme-stats)
+***
 
 
-<picture>
 
-  ***
 
-  <h3 align="left">Top Languages:</h3>
+<h3 align="left">Github Stats📈:</h3>
+<p align="left">
+</p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsrinivasan18&show_icons=true&locale=en&layout=compact" alt="ganeshsrinivasan18" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsrinivasan18&show_icons=true&locale=en&layout=compact" alt="ganeshsrinivasan18" /></p>
 
-  ***
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshsrinivasan18&show_icons=true&locale=en" alt="ganeshsrinivasan18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&" alt="ganeshsrinivasan18" /></p>
+
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake-dark.svg" />
