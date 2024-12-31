@@ -47,9 +47,6 @@
 
 
 ***
-***
-
-
 <h3 align="left">📈Github Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsrinivasan18&show_icons=true)](https://github.com/ganeshsrinivasan18&show_icons=true/github-readme-stats)
@@ -58,14 +55,13 @@
 <picture>
 
   ***
-  ***
 
   <h3 align="left">Top Languages:</h3>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsrinivasan18&show_icons=true&locale=en&layout=compact" alt="ganeshsrinivasan18" /></p>
 
   ***
-  ***
+
   
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake.svg" />
