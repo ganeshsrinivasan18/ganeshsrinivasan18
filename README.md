@@ -56,7 +56,7 @@
 
 <div align="center">
   <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganeshsrinivasan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dracula&show_icons=true&layout=compact"/>
+  <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsrinivasan18&theme=dracula&show_icons=true&layout=compact"/>
   </div
 <!--   <div align="center">
 <!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ganeshsrinivasan18&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
