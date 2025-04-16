@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors,CMOS technology,C,Python,C++........**
+- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors,CMOS technology,C,Perl........**
 
 - 📫 How to reach me **ganeshsrinivasan1803@gmail.com**
 
@@ -23,7 +23,9 @@
 
 <h3 align="left">💻I code in:</h3>
 
-![Static Badge](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/C%2B%2B-green?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/java-brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/python-yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Microcontroller%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SQL%20-%20orange?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/PERL%20-%20pink?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VHDL%20-%20violet?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/C%2B%2B-green?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/java-brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/python-yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Microcontroller%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SQL%20-%20orange?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/PERL%20-%20pink?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VHDL%20-%20violet?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SystemVerilog%20-%20ash?style=plastic&logoColor=dark%20blue&logoSize=auto)
+
+
 
 <h3 align="left">IDE and Tools i use:</h3>
 
