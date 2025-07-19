@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors,CMOS technology,C,Perl........**
+- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors,CMOS technology,C,Perl,TCL........**
 
 - 📫 How to reach me **ganeshsrinivasan1803@gmail.com**
 
